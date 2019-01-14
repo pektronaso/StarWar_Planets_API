@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PlanetsApplication",
+            "request": "launch",
+            "mainClass": "com.b2w.Planets.api.PlanetsApplication",
+            "projectName": "Planets"
+        }
+    ]
+}
